@@ -6,3 +6,9 @@
 ## Presentación
 
 Hola, soy Fernando, estudiante de ASIR.
+
+## Objetivos
+
+- Aprender el flujo básico de Git
+- Entender cómo funciona el historial de commits
+- Conectar un repositorio local con GitHub
